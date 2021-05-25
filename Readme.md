@@ -26,9 +26,9 @@ funds to the WHO foundation to help overcome the crisis.
 
 
 ### Snapshots of the Web Application
-* ![alt text](https://github.com/kapilraghuwanshi/corona-tracker-app/blob/master/CoronaTrackerIcons/CoronaHybridAppSnap2.png?raw=true)
+* ![alt text](https://raw.githubusercontent.com/RisHaV-IITKGP/Covid-19-Tracker/master/public/assets/images/1.JPG)
 
-* ![alt text](https://github.com/kapilraghuwanshi/corona-tracker-app/blob/master/CoronaTrackerIcons/CoronaHybridAppSnap3.png?raw=true)
+* ![alt text](https://raw.githubusercontent.com/RisHaV-IITKGP/Covid-19-Tracker/master/public/assets/images/2.JPG)
 
 
 ### How to create a local version of the App
