@@ -1,0 +1,25 @@
+ion-content {
+  --background: white;
+}
+
+ion-toolbar {
+  --background: black;
+}
+
+.appTitle {
+  font-weight: bolder;
+}
+
+.appDate {
+  text-align: right;
+  font-weight: bolder;
+}
+
+.pageTitle {
+  color: darkblue;
+  text-align: center;
+}
+
+.messageContent {
+  color: white;
+}
