@@ -1,7 +1,5 @@
 ## Covid-19 Tracker
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
-[![Maintenance](https://img.shields.io/badge/Maintained-yes-green.svg)]
-[![Website shields.io](https://img.shields.io/website-down-red/http/shields.io.svg)]
 
 Covid-19 Tracker is a Progressive Web Application(PWA) build using Ionic and React
 Framework which tracks the latest Covid-19 cases across the world and
